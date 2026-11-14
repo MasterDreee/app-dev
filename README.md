@@ -57,8 +57,8 @@ Movie info in code form:
 
 - [x] Night of the Living Dead
 - [x] Dawn of the Dead
-- [ ] Day of the Dead
-- [ ] Land of the Dead
+- [x] Day of the Dead
+- [x] Land of the Dead
 
 ## Extras
 
@@ -66,7 +66,7 @@ Zombie rating: 10<sup>10</sup> out of 10
 
 Brains: B<sub>12</sub> is not enough
 
-![Zombie poster](replace-with-image-url.jpg)
+![Zombie poster](https://moviemem.com/wp-content/uploads/2022/09/DAWNOFTHEDEAD1SHHR.jpg)
 
 ## Learn More
 
